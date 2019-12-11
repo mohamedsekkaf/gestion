@@ -1,0 +1,39 @@
+html{
+padding: 0;
+}
+
+
+#footer {
+    background-color: rgba(155, 153, 153, 0.678);  
+}
+.title{
+    text-align: center;
+    color: #6209E3;
+}
+.main-body{
+    width: 60%;
+    height:auto;
+    border: 1px solid red;
+    margin-left: 20%;
+    text-align: center;
+}
+/*  cours     +++++++++++ */
+.input-desegn{
+    background-color: rgb(106, 196, 238);
+    border-radius: 20px;
+    width: 200px;
+    height: 100px;
+    border: none;
+}
+
+.nav-family{
+    color: rgb(61, 33, 17);
+    font-size: 23px ;
+}
+
+
+/*  cours     +++++++++++ */
+
+
+
+
